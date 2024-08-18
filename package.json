@@ -2,7 +2,7 @@
   "name": "shoppingapp-redux-toolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gagandatt.github.io/my-app",
+  "homepage": "http://Abhishek-Bhandare.github.io/shoppingApp-redux",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
