@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a45da8f6.css",
-    "main.js": "/my-app/static/js/main.49387e67.js",
-    "index.html": "/my-app/index.html",
-    "main.a45da8f6.css.map": "/my-app/static/css/main.a45da8f6.css.map",
-    "main.49387e67.js.map": "/my-app/static/js/main.49387e67.js.map"
+    "main.css": "/shoppingApp-redux/static/css/main.a45da8f6.css",
+    "main.js": "/shoppingApp-redux/static/js/main.49387e67.js",
+    "index.html": "/shoppingApp-redux/index.html",
+    "main.a45da8f6.css.map": "/shoppingApp-redux/static/css/main.a45da8f6.css.map",
+    "main.49387e67.js.map": "/shoppingApp-redux/static/js/main.49387e67.js.map"
   },
   "entrypoints": [
     "static/css/main.a45da8f6.css",
